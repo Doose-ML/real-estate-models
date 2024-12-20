@@ -1,0 +1,101 @@
+Property ID,Location,Price (₦),Rental Yield (%),Security Rating,Infrastructure,Suitability Score
+PID9120,Kano,57231715,6.21,Medium,Poor,High
+PID1768,Lagos Mainland,95870094,6.84,High,Fair,Low
+PID6642,Kano,77553061,2.77,Low,Fair,Medium
+PID7244,Lagos Mainland,49524025,4.52,Medium,Poor,Low
+PID9592,Lagos Mainland,56518966,4.47,Medium,Good,Medium
+PID6222,Lagos Mainland,23783850,8.25,Medium,Poor,Low
+PID7821,Lagos Mainland,97517694,7.94,High,Fair,Low
+PID7688,Kaduna,15526386,3.96,Medium,Fair,High
+PID3444,Lagos Island,72215278,3.07,Low,Good,Medium
+PID5913,Lagos Island,51420476,5.05,Low,Fair,Low
+PID7167,Lagos Mainland,12207013,11.49,Medium,Poor,Medium
+PID4012,Lagos Island,18111164,5.32,Medium,Poor,Medium
+PID9813,Lagos Mainland,63664992,8.2,High,Poor,Low
+PID8758,Lagos Island,36157840,10.04,Medium,Poor,Medium
+PID4948,Kano,15202996,5.3,High,Good,Low
+PID4692,Kaduna,50713584,5.35,Low,Poor,Low
+PID5927,Ibadan,86224373,10.15,High,Good,High
+PID3365,Lagos Mainland,87391596,10.6,High,Fair,High
+PID8586,Kano,84941241,11.74,Medium,Fair,Medium
+PID1944,Kano,58244581,3.36,Low,Good,High
+PID7761,Kaduna,48805532,5.21,High,Good,Medium
+PID7824,Kaduna,8976288,11.47,Low,Fair,Low
+PID9683,Lagos Mainland,90110541,4.01,High,Fair,High
+PID3196,Lagos Mainland,41685332,5.14,Low,Poor,Low
+PID7363,Kano,65471823,11.65,High,Good,High
+PID4978,Kano,70847681,11.69,Low,Fair,High
+PID5177,Kaduna,35620216,4.91,High,Good,High
+PID4331,Lagos Mainland,52756170,8.95,Low,Fair,Low
+PID6411,Lagos Mainland,79227466,6.91,High,Good,Medium
+PID2295,Kano,55388958,7.76,Medium,Good,High
+PID8369,Ibadan,62961650,4.42,Low,Fair,Low
+PID7079,Kano,29929311,5.76,Medium,Poor,Medium
+PID2514,Ibadan,96227099,10.16,Medium,Poor,Medium
+PID9775,Lagos Mainland,83634827,5.93,High,Poor,High
+PID4120,Kano,93673882,3.14,Medium,Fair,Low
+PID1844,Kaduna,56012496,7.64,Low,Fair,Low
+PID5398,Lagos Island,16501669,7.92,High,Poor,Medium
+PID7179,Lagos Mainland,88029219,7.46,High,Fair,Low
+PID1647,Lagos Mainland,44645162,8.82,Low,Fair,Medium
+PID2192,Kano,38077929,7.5,Low,Poor,Medium
+PID4082,Lagos Island,14865900,11.53,Medium,Fair,Medium
+PID4555,Lagos Island,16010955,6.62,Medium,Fair,High
+PID8854,Lagos Island,40966597,9.08,High,Good,Low
+PID4422,Kano,25699187,6.38,Low,Good,High
+PID6455,Kano,56002735,4.91,Low,Poor,Medium
+PID5967,Ibadan,90080736,8.93,High,Good,Low
+PID1251,Ibadan,25706693,10.19,Medium,Good,Low
+PID4470,Ibadan,57294176,9.96,Low,Fair,Medium
+PID4113,Kaduna,47503832,6.09,Medium,Good,Low
+PID2922,Lagos Mainland,53412365,6.99,Medium,Fair,Medium
+PID8846,Ibadan,19301022,8.33,High,Good,Medium
+PID4974,Kaduna,17283664,4.42,Low,Poor,Medium
+PID4350,Kaduna,5697290,8.59,High,Fair,Medium
+PID7498,Kano,46374957,9.15,High,Good,Low
+PID4921,Lagos Island,64691437,9.89,Medium,Fair,High
+PID6269,Lagos Island,53307308,2.74,Low,Poor,Low
+PID5637,Ibadan,41207439,11.91,High,Poor,High
+PID7236,Lagos Mainland,18721268,6.79,Low,Fair,Low
+PID8639,Lagos Mainland,22784789,6.01,High,Poor,Medium
+PID9743,Lagos Mainland,16716836,7.07,Low,Poor,Low
+PID6886,Kaduna,30151299,11.2,High,Good,Low
+PID6053,Kaduna,62845091,8.92,Medium,Poor,Low
+PID5285,Kaduna,65242778,7.44,Medium,Good,Medium
+PID6892,Kano,79757265,9.91,High,Fair,High
+PID9401,Kaduna,79455942,5.6,Medium,Poor,Low
+PID9147,Lagos Mainland,73778646,10.96,High,Fair,Medium
+PID8635,Lagos Mainland,59766762,7.37,Medium,Poor,High
+PID2615,Lagos Island,18863742,8.38,Low,Good,Medium
+PID8692,Lagos Mainland,8524813,2.85,Medium,Poor,High
+PID6246,Kaduna,17028437,9.69,Low,Fair,Medium
+PID4328,Kaduna,52501571,8.58,Low,Poor,Medium
+PID7073,Ibadan,79386123,5.55,Medium,Good,Medium
+PID6126,Kano,17490873,8.47,Low,Fair,Medium
+PID7781,Lagos Mainland,85117857,2.44,Medium,Good,Medium
+PID1749,Kano,85268079,11.84,Low,Poor,Low
+PID4625,Lagos Mainland,48544301,8.77,Medium,Poor,Low
+PID3390,Lagos Island,56705758,6.0,Low,Good,High
+PID1265,Lagos Island,6656329,9.53,High,Fair,Low
+PID5272,Kano,44171088,11.66,Medium,Good,Medium
+PID7841,Kaduna,60540647,6.3,Medium,Fair,Medium
+PID5836,Ibadan,57049575,2.11,Medium,Fair,Low
+PID3497,Lagos Mainland,16368176,4.59,Low,Fair,High
+PID4214,Lagos Mainland,80099723,7.11,High,Good,High
+PID6404,Ibadan,37580349,7.19,Low,Fair,High
+PID4768,Kano,81767229,7.81,Low,Good,Low
+PID7223,Kano,74941466,7.75,Medium,Good,Medium
+PID5026,Lagos Mainland,27761034,6.46,Low,Good,High
+PID9180,Lagos Island,96981555,5.91,Low,Poor,High
+PID6530,Ibadan,56100987,9.72,High,Poor,High
+PID5216,Lagos Mainland,27750139,7.89,Low,Poor,Medium
+PID9005,Lagos Island,23634797,7.0,High,Fair,Medium
+PID9037,Kano,41093692,5.45,Medium,Poor,High
+PID8550,Lagos Island,45417154,2.25,High,Poor,Medium
+PID3756,Kaduna,41024950,3.05,High,Poor,High
+PID6770,Lagos Mainland,71185975,6.16,Medium,Fair,Low
+PID3773,Ibadan,24587040,11.62,High,Good,High
+PID3293,Lagos Island,13491573,3.16,High,Poor,Low
+PID9954,Kano,27442197,11.41,Medium,Good,Medium
+PID9000,Lagos Island,63341261,3.42,Low,Good,High
+PID4015,Kano,42038975,5.12,High,Good,Medium
